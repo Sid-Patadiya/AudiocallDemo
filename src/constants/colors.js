@@ -1,0 +1,22 @@
+let colors = {
+  Black: '#000',
+  White: '#FFFFFF',
+  LightSky: '#f6f7fb',
+  ThemeColor: '#3767b1',
+  Blue: 'rgba(72, 125, 192, 1)',
+  LightBlue: 'rgba(72, 125, 192, 0.5)',
+  inputLabelColor: '#333333',
+  Gray: '#adadad',
+  appGray: '#5C656D',
+  Red: '#EF2222',
+  borderColor: 'rgba(61, 57, 137, 0.1);',
+  grayText: 'rgba(38, 50, 60, 0.75)',
+  SkyBlue: 'rgba(85, 202, 240, 0.05);',
+  MediumGray: 'rgba(61, 57, 137, 0.1)',
+  GradientGreen: '#02D689',
+  DarkYellow: '#cc9933',
+  LightGray: 'rgba(61, 57, 137, 0.05)',
+  Green: '#19A416',
+  purpal: '#3a4d8f',
+};
+module.exports = colors;

@@ -1,0 +1,17 @@
+export const backgroundImage = require("../assets/bottom-water-mark-cut.png");
+export const eye_on = require("../assets/eye_on.png");
+export const eye_off = require("../assets/eye_off.png");
+export const profile_icon = require("../assets/profile-deactive-icon.png");
+export const expert_icon = require("../assets/expert-circle-active-icon.png");
+export const user_icon = require("../assets/user-icon.png");
+export const search_white_icon = require("../assets/search-white-icon.png");
+export const callicon = require("../assets/callicon.png");
+export const chat_icon = require("../assets/chat-icon.png");
+export const mailicon = require("../assets/mailicon.png");
+export const peachy_circle = require("../assets/peachy-circle.png");
+export const sam_circle = require("../assets/sam-img-circle.png");
+export const pamela_circle = require("../assets/pamela-img-circle.png");
+export const location_icon = require("../assets/location-icon.png");
+export const folder = require("../assets/folder.png");
+export const camera = require("../assets/camera.png");
+export const Back = require("../assets/Back.png");

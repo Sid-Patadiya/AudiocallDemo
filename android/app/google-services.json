@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397950692220",
+    "project_id": "audiocall-c1d8b",
+    "storage_bucket": "audiocall-c1d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397950692220:android:0e7efc62c69574caba52f9",
+        "android_client_info": {
+          "package_name": "com.audiocalldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397950692220-2fj8tf0mrj48t86ait2i7lph8qqqguds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8yPIcus6dyI4y9uL-Uez4xbFRHNP_-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397950692220-2fj8tf0mrj48t86ait2i7lph8qqqguds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
